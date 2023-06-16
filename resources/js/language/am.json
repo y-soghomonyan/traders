@@ -1,0 +1,36 @@
+{
+    "menu" : [
+        {
+          "link": "/",
+          "title" : "Գլխավոր"
+        },
+        {
+          "link": "/about",
+          "title" : "Մեր մասին"
+        },
+        {
+          "link": "/contact",
+          "title" : "Կոնտակտներ"
+        },
+        {
+          "link": "/work",
+          "title" : "Աշխատանք"
+        },
+        {
+          "link": "/market",
+          "title" : "Մարկեթ"
+        }
+    ],
+    "home_page" : {
+      "page_title" : "Գլխավոր",
+      "title":"Մեր մասին",
+      "description" : " մեր թիմի համար:"
+
+    },
+    "contact_page" : {
+      "page_title" : "Կոնտակտներ",
+      "title":"Մեր մասին",
+      "description" : " Armenia-ն հիմնադրվել"
+
+    }
+  }

@@ -1,0 +1,24 @@
+{
+  "menu" : [
+      {
+        "link": "/",
+        "title" : "Glavnaya"
+      },
+      {
+        "link": "/about",
+        "title" : "O nas"
+      },
+      {
+        "link": "/contact",
+        "title" : "Contact"
+      },
+      {
+        "link": "/work",
+        "title" : "Rabota"
+      },
+      {
+        "link": "/market",
+        "title" : "Market"
+      }
+  ]
+}

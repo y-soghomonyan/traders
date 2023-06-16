@@ -1,0 +1,127 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%!important;
+    background-color: #103c63!important;
+}
+
+h1, h2, h3, h4, h5, h6, p, a{
+    color:gainsboro;
+}
+
+#app_front{
+    /* height: 100%; */
+    width: 100%;
+    background-color: #103c63;
+    padding-bottom: 50px;
+    /* background-image: url("/img/bg.jpg");
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center; */
+    margin-bottom: 80px;
+}
+.df_aic_jcc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    height: 100%;
+    width: 100%;
+    background-color: #103c63;
+
+}
+
+#footer{
+    /* position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0; */
+}
+.navbar-header{
+    /* background-color: #F8C874; */
+}
+.header_logo{
+    width: 80px;
+    height: 80px;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #F8C874!important;
+}
+
+.lang_button{
+    background-color:none;
+    background: none;
+    border: none;
+    color: gainsboro;
+}
+
+.lang_button svg{
+  width: 20px;
+  height: 20px;
+}
+
+.nav-item a {
+    color: gainsboro;
+}
+.navbar-collapse {
+    justify-content: center;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .diagram_block{
+    background-color: #fff;
+  }
+
+ .pagination-item {
+  width: 100%;
+    max-width: 55px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgb(36 150 185);
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .market_pagination .active{
+    border: 3px solid blue;
+  }
+  .market_pagination>.pagination-item:hover {
+    border: 3px solid blue;
+  }
+  .market_pagination{
+    gap: 7px;
+    flex-wrap: wrap;
+  }
+
+  .bg_white{
+    background-color: white;
+  }
